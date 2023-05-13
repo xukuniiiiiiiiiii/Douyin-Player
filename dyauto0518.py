@@ -56,18 +56,18 @@ coordinates = {
 
 flag_list = [
 
-    "/Users/wyg/projects/tiktok/flags/livevideo_flag.jpg", #直播页-0
-    "/Users/wyg/projects/tiktok/flags/videoplay_flag.jpg",  # 视频播放页-1
-    "/Users/wyg/projects/tiktok/flags/fanslist_flag.jpg",  # 粉丝列表页-2
-     "/Users/wyg/projects/tiktok/flags/fansprofile_flag.jpg", #粉丝个人页-3
-     "/Users/wyg/projects/tiktok/flags/comment_flag.jpg" ,#评论页-4
-     "/Users/wyg/projects/tiktok/flags/rank_flag.jpg" ,#榜单页-5
-    "/Users/wyg/projects/tiktok/flags/personprofile_flag.jpg",  # 号主个人信息页-6
-     "/Users/wyg/projects/tiktok/flags/zerowork_flag.jpg" ,#零作品页-7
-    "/Users/wyg/projects/tiktok/flags/portal_flag.jpg",  # 抖音开场主页-8
-    "/Users/wyg/projects/tiktok/flags/liveoff_flag.jpg",  # 直播结束页-9
-    #"/Users/wyg/projects/tiktok/flags/message_flag.jpg",  # 个人消息页-10
-   # "/Users/wyg/projects/tiktok/flags/camera_flag.jpg",  # 视频拍摄页-11
+    "/Users/86183/projects/tiktok/flags/livevideo_flag.jpg", #直播页-0
+    "/Users/86183/projects/tiktok/flags/videoplay_flag.jpg",  # 视频播放页-1
+    "/Users/86183/projects/tiktok/flags/fanslist_flag.jpg",  # 粉丝列表页-2
+     "/Users/86183/projects/tiktok/flags/fansprofile_flag.jpg", #粉丝个人页-3
+     "/Users/86183/projects/tiktok/flags/comment_flag.jpg" ,#评论页-4
+     "/Users/86183/projects/tiktok/flags/rank_flag.jpg" ,#榜单页-5
+    "/Users/86183/projects/tiktok/flags/personprofile_flag.jpg",  # 号主个人信息页-6
+     "/Users/86183/projects/tiktok/flags/zerowork_flag.jpg" ,#零作品页-7
+    "/Users/86183/projects/tiktok/flags/portal_flag.jpg",  # 抖音开场主页-8
+    "/Users/86183/projects/tiktok/flags/liveoff_flag.jpg",  # 直播结束页-9
+    #"/Users/86183/projects/tiktok/flags/message_flag.jpg",  # 个人消息页-10
+   # "/Users/86183/projects/tiktok/flags/camera_flag.jpg",  # 视频拍摄页-11
 ]
 
 comment_list = [
